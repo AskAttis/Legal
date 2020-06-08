@@ -41,7 +41,8 @@ Under the General Data Protection Regulation, you have the right to access, rect
 
 To do so, contact privacy@askattis.com or write to:
 Ask Attis B.V.
-...
+Beersebaan 76,
+Antwerp, Belgium
 
 ## Data Retention
 * We store your login information as long as you use the service;
