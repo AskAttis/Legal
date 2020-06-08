@@ -46,7 +46,7 @@ Antwerp, Belgium
 
 ## Data Retention
 * We store your login information as long as you use the service;
-* We  store pictures and location data associated ...
+* We  store pictures and location data associated as long as you use the service;
 * We store invoicing contact details as long as our legal obligations requires them.
 
 ## Cookies on our website
